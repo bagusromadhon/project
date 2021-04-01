@@ -8,7 +8,7 @@ class ItemCard extends StatelessWidget {
   final Function onUpdate;
   //// Pointer to Delete Function
   final Function onDelete;
-
+//sdasadsad
   ItemCard(this.nama_wisata, this.deskripsi, {this.onUpdate, this.onDelete});
 
   @override
